@@ -49,3 +49,7 @@ If you're a new user, follow these steps to sign up:
 4. **Take Action on Orders:** Review each order and either accept or reject it based on availability or other factors.
 
 For Live Preview: [E-Commerce Project Live Preview](https://react-ecommerce-projects.netlify.app/)
+
+
+
+Created by Dinesh Nayak
